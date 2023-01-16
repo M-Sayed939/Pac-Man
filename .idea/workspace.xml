@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e27d4605-957d-411d-a52f-5f5ba6b1db39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Pacman/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Pacman/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Pacman/Pacman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Pacman/PacmanUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Pacman/components/MoveDirections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Pacman/components/PlayerComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/levels/pacman_level0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/textures/coin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/textures/player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/textures/spritesheet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/ui/pacman_ui.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="e27d4605-957d-411d-a52f-5f5ba6b1db39" name="Changes" comment="Create Some Classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -76,6 +57,18 @@
       <option name="presentableId" value="Default" />
       <updated>1673871727373</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create Some Classes">
+      <created>1673874926532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673874926532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Some Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Some Classes" />
   </component>
 </project>
